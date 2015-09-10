@@ -6,9 +6,18 @@ body {
 	margin:0;
 }
 
-h1,h2{
+h1{
 	font-family: 'Gruppo', cursive;
-	color: white;
+	font-size: 40px;
+	color: #9999FF;
+
+}
+
+h2{
+	font-family: 'Gruppo', cursive;
+	color: #9999FF;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 16px;
 
 }
 
@@ -18,7 +27,7 @@ a {
 }
 
 a:hover {
-	color:black;
+	color: black;
 }	
 
 /* Layout
@@ -62,7 +71,7 @@ footer {
 	}
 
 	nav	ul	li a:hover {
-		background: white;
+		background: #9999FF;
 	}
 
 
