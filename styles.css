@@ -30,6 +30,29 @@ a:hover {
 	color: black;
 }	
 
+/* Floats.
+------------------------------------------*/
+
+.align-right{
+	float:right;
+	padding:.5em 0 .5em .5em;
+
+}
+
+.align-left{
+	float:left;
+	padding: .5em .5em .5em 0;
+
+
+}
+
+.align-center{
+	margin: .5em;
+	display:block;
+
+
+}
+
 /* Layout
 ------------------------------------------*/
 
